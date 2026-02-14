@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "2eb4ebbfced48156",
+    "type": "split",
+    "children": [
+      {
+        "id": "88250426801a1f2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab51adab7c6570ab",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4225f93d3a5dc4c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "77f1df78cf10b32e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7cf9ecbf54dc3e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "88cd03bdbde4a56b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "4afb8c5b0a21982f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11d2d6c6fdf5f9bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fbd82186675c0d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2cf75fa2c6e7238",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Операторы.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Операторы"
+            }
+          },
+          {
+            "id": "8840a0ff9857101d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "3a56b2b5a3985e63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "5567bdfe112c3d65",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "b6f75eb9c1e5c13b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Без названия.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Без названия"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b7cf9ecbf54dc3e6",
+  "lastOpenFiles": [
+    "2026-02-14.md",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "JavaScript/Качество кода/Стиль написания кода.md",
+    "JavaScript/Основы/Структура кода.md",
+    "Как писать комментарии.md",
+    "JavaScript/JavaScript.md",
+    "Комментарии.md",
+    "Начало.md",
+    "JavaScript/Качество кода/Отладка в браузере.md",
+    "JavaScript/Основы/Циклы.md",
+    "JavaScript/Качество кода/resources/Pasted image 20260208120151.png",
+    "Качество кода.md",
+    "JavaScript/Качество кода/resources/Pasted image 20260206230026.png",
+    "JavaScript/Качество кода/resources/Pasted image 20260206230403.png",
+    "JavaScript/Качество кода/resources/Pasted image 20260206230038.png",
+    "JavaScript/Качество кода/resources/Pasted image 20260206225522.png",
+    "JavaScript/Качество кода/resources/Pasted image 20260206225052.png",
+    "JavaScript/Качество кода/resources/Pasted image 20260206224517.png",
+    "JavaScript/Качество кода/resources/Pasted image 20260206224458.png",
+    "JavaScript/Качество кода/resources/Pasted image 20260206224800.png",
+    "JavaScript/Качество кода/resources/Pasted image 20260206224637.png",
+    "JavaScript/Качество кода/resources",
+    "JavaScript/Основы/Функции.md",
+    "JavaScript/Качество кода",
+    "JavaScript/Основы/Условное ветвление.md",
+    "CSS.md",
+    "JavaScript/Основы/Операторы.md",
+    "JavaScript/Основы",
+    "JavaScript/основы",
+    "Без названия",
+    "JavaScript",
+    "JavaScript/Основы/Типы данных и преобразования.md",
+    "оператор нулевого слияния.md",
+    "JavaScript/полифил.md",
+    "Типы данных и преобразования^.md",
+    "Types.md",
+    "HTML.md",
+    "JavaScript/Основы/Строгий режим.md",
+    "JavaScript/Основы/Тег «script».md",
+    "Типы данных.md",
+    "2026-01-29.md",
+    "Без названия.md"
+  ]
+}
