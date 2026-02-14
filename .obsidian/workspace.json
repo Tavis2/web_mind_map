@@ -11,10 +11,14 @@
             "id": "ab51adab7c6570ab",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Качество кода/Как писать комментарии.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Как писать комментарии"
             }
           }
         ]
@@ -151,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.canvas",
+                "file": "JavaScript/Качество кода/Как писать комментарии.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Как писать комментарии"
             }
           }
         ],
@@ -182,12 +186,12 @@
   },
   "active": "b7cf9ecbf54dc3e6",
   "lastOpenFiles": [
+    "Без названия.canvas",
     "2026-02-14.md",
     "Без названия 1.canvas",
-    "Без названия.canvas",
     "JavaScript/Качество кода/Стиль написания кода.md",
     "JavaScript/Основы/Структура кода.md",
-    "Как писать комментарии.md",
+    "JavaScript/Качество кода/Как писать комментарии.md",
     "JavaScript/JavaScript.md",
     "Комментарии.md",
     "Начало.md",
